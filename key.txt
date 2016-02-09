@@ -1,0 +1,2104 @@
+Test 1095 FINANCE CLUSTER EXAM—KEY 11
+
+1. A
+
+Following legal procedure. Legal procedure refers to the methods that are used to protect an individual's 
+
+or business's legal rights. Each jurisdiction's court system requires that certain procedures be followed to 
+
+ensure fair treatment to both the plaintiff and the defendant. This involves following legal procedures to 
+
+file complaints with the court, to serve documents to the opposition, and to exhibit proper behavior with 
+
+witnesses and jurors during court proceedings. The purpose of legal procedures is to provide consistent 
+
+and fair treatment to all parties involved in a legal dispute. The judicial system does not develop contracts 
+
+or implement laws; it rules on contract validity by interpreting laws.
+
+SOURCE: BL:070
+
+SOURCE: Answers.com. (n.d.). Procedural law. Retrieved January 6, 2009, from 
+
+2. A
+
+Statutory control. Four methods used to limit and regulate the activities of federal agencies are statutory 
+
+control, political control, judicial review, and informational control. In many countries, the legislative 
+
+branch has the power to pass statutes (laws) establishing federal agencies. This enabling legislation 
+
+often identifies limits to the agencies' powers. In other words, these statutes control the agencies' 
+
+activities. The government wields political control over these agencies by providing (or withholding) 
+
+funding, by approving (or speaking out against) individuals nominated to lead these agencies, and by 
+
+amending the agencies' enabling legislation. The courts can also control federal agencies by reviewing 
+
+and deciding the legality of the agencies' actions. Finally, the public can indirectly control federal 
+
+agencies through information. Most federal agencies are required to provide the public with information 
+
+on different topics. After reviewing the information, private citizens can take action to influence the 
+
+activities of these federal agencies.
+
+SOURCE: BL:074
+
+SOURCE: Beatty, J.F., & Samuelson, S.S. (2008). Essentials of business law (3rd ed.) [pp. 94-98]. 
+
+3. D
+
+Acting in the best interests of their clients. In the financial industry, a fiduciary is a financial professional 
+
+who has been given legal authority to make financial transactions on behalf of an individual or business—
+
+the owner of the financial product (e.g., stock). Because the fiduciary has been given legal authority to 
+
+act on behalf of a client, s/he must act in the best interest of the client. Fiduciary responsibility involves 
+
+making wise financial decisions and obtaining financial products that will help the client achieve his/her 
+
+financial goals. A fiduciary does not focus on selling products that generate the highest commissions or 
+
+make risky investments without the client's knowledge. A responsible, ethical fiduciary is transparent and 
+
+trustworthy and continuously communicates with her/his clients rather than communicating with them 
+
+only once a year. 
+
+SOURCE: BL:133
+
+SOURCE: Sais, J., & Sais, M. (2013, June 28). Meeting your fiduciary responsibility. Retrieved October 
+
+4. B
+
+Property passing directly to the surviving spouse. An estate tax is a tax on the fair-market value of assets 
+
+that are transferred to another person upon the owner's death. In some situations, beneficiaries can 
+
+obtain estate-tax deductions. The marital deduction is a deduction that applies when the deceased 
+
+individual's property passes directly to the surviving spouse. Estate-tax deductions apply to some 
+
+qualified charitable contributions. Valuable art, collectibles, and money that are left to children, relatives, 
+
+and friends are not tax deductible under estate-tax code.
+
+SOURCE: BL:134
+
+SOURCE: Internal Revenue Service. (2013, October 23). Frequently asked questions on estate taxes.
+
+http://www.answers.com/topic/procedural-law
+
+Mason, OH: Thomson/South-Western.
+
+25, 2013, from http://www.investopedia.com/articles/08/fiduciary-responsiblity.asp#
+
+Retrieved October 25, 2013, from 
+
+http://www.irs.gov/businesses/small/article/0,,id=108143,00.html#5
+
+Test 1095 FINANCE CLUSTER EXAM—KEY 12
+
+5. C
+
+Claiming the loss as a tax deduction. The difference between the cost of an investment and the selling 
+
+price of that same investment is either a capital gain or capital loss. The federal government taxes the 
+
+capital gains on investments. If an investment suffers a loss in value in relation to its purchase price, the 
+
+government allows the owner to claim the loss as a tax deduction. Liquidating remaining assets, 
+
+obtaining a loan, and renegotiating lower insurance premiums may provide the investor with needed cash 
+
+or savings, but these actions do not change or minimize the monetary loss on the investment property.
+
+SOURCE: BL:134
+
+SOURCE: Internal Revenue Service. (2011, February 18). 10 facts about capital gains and losses. 
+
+Retrieved October 25, 2013, from http://www.irs.gov/uac/Ten-Important-Facts-About-Capital-
+Gains-and-Losses
+
+6. C
+
+Investigating possible conflicts of interest within the company. The chief compliance officer is responsible 
+
+for developing policies and procedures that ensure that her/his company is adhering to all rules and 
+
+regulations affecting business operations. In addition, s/he is often in charge of investigating and 
+
+managing conflicts of interest within the company. These conflicts of interest might arise between the 
+
+business and its customers, among the business's customers, or among business functions. Such 
+
+conflicts of interest have the potential to interfere with the business's compliance with organizational, 
+
+industry, and government regulations. Members of the business's marketing department are likely to 
+
+evaluate the company's different channels of distribution. Operations management determines the 
+
+company's point of diminishing returns, possibly with the accounting or finance department's assistance. 
+
+The accounting department prepares and submits the company's financial statements to interested 
+
+parties such as the SEC.
+
+SOURCE: CC:003
+
+SOURCE: Barclay Simpson Recruitment Consultants. (n.d.). An introduction to financial services 
+
+compliance. Retrieved October 25, 2013, from http://www.barclaysimpson.com/document_
+
+uploaded/Intro%20FS%20Compl%20publication.pdf
+
+7. B
+
+The continuous inspection of transactional data. A virtual auditor is a type of compliance technology that 
+
+uses multiple reasoning processes to help the business identify errors and compliance violations. The 
+
+advantage to using virtual-auditor technology is that it is continuously inspecting and reviewing financial 
+
+transactions and processes in real time, so the business can identify and correct problems quickly. A 
+
+business does not use virtual-auditor technology to monitor competitors' activities or to allow unlimited 
+
+access to confidential credit information. A business might use project-management software to 
+
+streamline and track the workflow of a project.
+
+SOURCE: CC:004
+
+SOURCE: Taylor, P. (2006, September 19). IT's role in financial process improvements. Retrieved 
+
+October 25, 2013, from http://www.information-management.com/specialreports/20060919/
+
+1063493-1.html
+
+8. B
+
+High cost and lack of evidence of return on investment. Although GRC technology can be very beneficial 
+
+for business, many companies encounter difficulties when implementing the technology. The most 
+
+significant barriers are the perceived high cost of the technology and a lack of evidence that the 
+
+technology will provide a sufficient return on investment. Other barriers include a lack of adequate 
+
+technology solutions, the absence of a common risk management/compliance “language,” and poor 
+
+change management during the implementation process. Benefits of GRC technology include the use of 
+
+a single GRC platform, increased communication among risk management teams, and centralized risk 
+
+and compliance oversight. Centralized business risk is neither a barrier nor a benefit of GRC technology.
+
+SOURCE: CC:004
+
+SOURCE: Gracyalny, S. (2011, January 11). Integrated GRC: Understanding the benefits and 
+
+beginning the journey to obtain them. Retrieved October 24, 2013, from 
+
+http://www.corporatecomplianceinsights.com/integrated-grc-by-scott-gracyalny/
+
+Test 1095 FINANCE CLUSTER EXAM—KEY 13
+
+9. B
+
+Distracted. Nonverbal cues are the elements of communication that involve gestures and facial 
+
+expressions rather than words. Nonverbal cues often express what the senders and recipients think 
+
+about their messages. If Colin was interested in the meeting topic or was listening to the speaker, he 
+
+would be directing his attention to the speaker. Since Colin was looking at his phone and text messaging, 
+
+he was distracted and was probably not paying attention to what the speaker was saying. The speaker 
+
+likely felt that Colin's nonverbal behavior was rude and inconsiderate. There is not enough information to 
+
+determine if Colin was annoyed.
+
+SOURCE: CO:059
+
+SOURCE: Bovée, C.L., & Thill, J.V. (2008). Business communication today (9th ed.) [pp. 54-57]. Upper 
+
+10. A
+
+Ask the caller, "How may I help you?" This question requires callers to identify the purpose of their calls. 
+
+It is courteous, since you cannot provide assistance until you know what is needed. Asking, "What did 
+
+you want?" sounds abrupt and impolite. Waiting for callers to ask questions would waste your time and 
+
+that of the caller. Answering promptly with a friendly greeting is a guideline for giving good telephone 
+
+service, but would not identify the purpose of the call.
+
+SOURCE: CO:114
+
+SOURCE: Hyden, J.S., Jordan, A.K., Steinauer, M.H., & Jones, M.J. (2006). Communicating for 
+
+11. D
+
+Develop an outline. It is necessary to organize information in order to present it in a logical manner in a 
+
+business report. An effective way to organize information is to develop an outline. The outline serves as 
+
+the plan for the report, and helps the writer arrange the information in the order that will make the 
+
+message clear to readers. A writer determines the purpose of the report before gathering and interpreting 
+
+the data. Then, it is appropriate to develop an outline. It is important to remain objective while writing the 
+
+business report.
+
+SOURCE: CO:086
+
+SOURCE: Leskiar, R.V., & Flatley, M.E. (2005). Basic business communication: Skills for empowering 
+
+12. B
+
+Refer to the appropriate publisher's style manual. To provide consistency throughout written documents, 
+
+certain businesses or industries often follow a specific writing style, such as Associated Press (AP) or 
+
+Chicago Manual. Each style varies and often uses different styles and standards. For example, one style 
+
+may italicize book titles and another style may underscore book titles. Most style publishers post style 
+
+information on their websites, as well as in physical manuals or reference books. The best way to verify a 
+
+specific style or format is to consult the publisher's manual or website. Coworkers, dictionaries, and 
+
+readers are not the most reliable sources for publishing styles and standards. 
+
+SOURCE: CO:089
+
+SOURCE: Bovée, C.L., & Thill, J.V. (2008). Business communication today (9th ed.) [p. A-21]. Upper 
+
+13. A
+
+Appeal to their needs. The purpose of writing persuasive messages is to convince customers to do 
+
+something, such as buy a product. To encourage them to take the correct action, it is important to appeal 
+
+to their needs and show them why it is a benefit to do what you want them to do. For example, if you 
+
+want customers to buy a new product, explain how that product will benefit them, such as by saving 
+
+money or speeding up production. Customers are more likely to respond favorably when they understand 
+
+how their needs will be satisfied. It is not effective to use aggressive words or demand a customer's 
+
+attention as these techniques often offend customers. Making a prediction is not as effective as stating a 
+
+fact or providing logical evidence to support your message.
+
+SOURCE: CO:031
+
+SOURCE: Hyden, J.S., Jordan, A.K., & Steinauer, M.H. (2007). Communicating for success (3rd ed.) 
+
+Saddle River, NJ: Pearson Prentice Hall.
+
+success (3rd ed.) [pp. 85-88]. Mason, OH: Thomson South-Western. 
+
+the Internet generation (10th ed.) [pp. 280-282]. Boston: McGraw-Hill/Irwin.
+
+Saddle River, NJ: Pearson Prentice Hall.
+
+[pp. 333-334]. Cincinnati: South-Western Educational.
+
+Test 1095 FINANCE CLUSTER EXAM—KEY 14
+
+14. D
+
+Guide the discussion. If a business is large, each department often has regular staff meetings so the 
+
+manager can communicate important information to employees and keep them informed about current 
+
+issues. When participating in these staff meetings, the department manager is the leader. The leader is 
+
+the person who runs the meeting, guides the discussion, and keeps the employees focused on the 
+
+agenda. As the leader, it may be necessary for the manager to encourage employees to participate or 
+
+prevent arguments. While guiding the meeting, the manager may set time limits or follow a formal 
+
+protocol; however these are secondary considerations or activities rather than the primary role. Managers 
+
+should follow the agenda they set for the staff meetings rather than expand it during the meeting.
+
+SOURCE: CO:063
+
+SOURCE: Clark, B., Basteri, C.G., Gassen, C., & Walker, M. (2014). Marketing dynamics (3rd ed.) 
+
+15. C
+
+Negative. Businesses must keep in mind that word-of-mouth advertising can be negative as well as 
+
+positive. It's important for businesses to build positive customer relations so word-of-mouth advertising 
+
+will work in their favor, since it cannot be avoided, cannot be bought, and is very powerful. 
+
+SOURCE: CR:003
+
+SOURCE: CR LAP 1—Accentuate the Positive (Nature of Customer Relations)
+
+16. B
+
+Corporate culture. When a business communicates customer-centric values and ideals to its employees 
+
+on a consistent basis, it is developing its corporate culture. A customer-centric corporate culture is 
+
+essential for CRM success. Communicating values and ideals to employees does not develop 
+
+organizational structure, technology, or trademarks.
+
+SOURCE: CR:016
+
+SOURCE: CR LAP 2—Know When to Hold 'Em (Nature of Customer Relationship Management)
+
+17. B
+
+Ann strives to solve customer problems promptly and accurately. To meet or exceed customer 
+
+expectations, finance professionals should respond promptly to customer needs, requests, and problems. 
+
+While wearing a business suit every day can help to demonstrate a finance professional's commitment to 
+
+her/his job, doing so doesn't necessarily demonstrate the person's commitment to customer service. 
+
+Finance professionals should not take cellphone calls while meeting with customers, nor should they use 
+
+technical jargon. Instead, they should speak in simple terms that customers will understand.
+
+SOURCE: CR:012
+
+SOURCE: MindTools. (1996-2013). Customer service mindset: Getting passionate about satisfying 
+
+[pp. 570-571]. Tinley Park, IL: The Goodheart-Willcox Co.
+
+others. Retrieved on October 24, 2014, from 
+
+http://www.mindtools.com/pages/article/newCDV_77.htm
+
+18. C
+
+Trajectory. CRM technology is frequently used to measure and analyze a business's typical customer 
+
+trajectory, which is a pattern of purchases. Duration is the length of time that a customer stays a 
+
+customer. A vintage is a group of customers that are similar in some way. For instance, they might be 
+
+grouped together because they all became a business's customers in the same year. Touch points are all 
+
+of the opportunities that a business has to connect with customers and reinforce its brand image.
+
+SOURCE: CR:024
+
+SOURCE: Fournier, S. & Avery, J. (2011, March 23). Putting the 'relationship' back into CRM. Retrieved 
+
+October 25, 2013, from http://sloanreview.mit.edu/article/putting-the-relationship-back-into-
+crm/
+
+Test 1095 FINANCE CLUSTER EXAM—KEY 15
+
+19. C
+
+To maintain a useful customer database. The data-cleansing process removes duplicate records, 
+
+updates expired data, and completes incomplete data fields. An effective data cleansing will result in a 
+
+database that contains useful, relevant, and accurate data. Having a "clean" database helps the 
+
+organization process good information to make sound business decisions. Businesses use a variety of 
+
+security software and procedures to control employees' access to their intranets and to monitor security 
+
+breaches. Businesses do not use data-cleansing processes to correct non-response errors on surveys.
+
+SOURCE: CR:024
+
+SOURCE: NEDCAR (2012, August 14). Purpose of data cleaning. Retrieved October 25, 2013, from 
+
+20. A
+
+They want. Producers are responsible for choosing and using the best combination of resources. As 
+
+examples, they must decide if the number of workers is adequate; if the buildings, supplies, and 
+
+equipment are suitable; and if there are enough raw materials to produce their goods. Through such 
+
+actions, producers provide consumers with the types and quality of goods and services that they want. 
+
+Producers should try to keep their costs down but should not always purchase the least expensive 
+
+products if quality will be sacrificed. Likewise, purchasing the best-known resources may not be 
+
+appropriate for some businesses. 
+
+SOURCE: EC:003
+
+SOURCE: EC LAP 14—Be Resourceful (Economic Resources)
+
+21. B
+
+Requirements for product testing. The government has passed many laws intended to protect 
+
+consumers. In addition to requiring product testing, these laws prohibit false advertising and deceptive 
+
+labeling, make food inspection mandatory, and set standards of safety in building construction. None of 
+
+these laws are intended to monitor business growth or to generate competition. Making government 
+
+effective does not necessarily protect consumers.
+
+SOURCE: EC:008
+
+SOURCE: EC LAP 16—Regulate and Protect (Government and Business)
+
+22. B
+
+Sales. Governments levy taxes to raise money to pay for various programs and initiatives. Sales tax is 
+
+typically charged on nonessential goods such as books, flowers, and shoes. Businesses (e.g., retailers) 
+
+that sell the goods collect the sales tax from their customers and give the money to the government at set 
+
+intervals. Governments levy income taxes, which are based on earnings (e.g., wages). Inherited items 
+
+are subject to estate taxes. Governments levy property taxes on land and property.
+
+SOURCE: EC:072
+
+SOURCE: AmosWEB. (2000-2013). Taxes. Retrieved October 14, 2013, from 
+
+23. A
+
+Job enlargement. Job enlargement involves combining different tasks into one position. Employees may 
+
+perform different types of tasks during the course of one day. Because Isabelle is not performing one 
+
+very specialized task day in and day out, she is less likely to become bored with her job. Job rotation 
+
+involves moving from one job to another job within an organization. Job rotation helps employees learn 
+
+new tasks and understand how a variety of tasks relate to others in the organization. Task specialization 
+
+involves becoming highly skilled in one, very small portion of a job. Specialization by trade is the type of 
+
+work that a person performs in order to earn a living, such as engineering, public relations, or accounting.
+
+SOURCE: EC:014
+
+SOURCE: EC LAP 7—Divide and Conquer (Specialization and the Division of Labor)
+
+www.nedarc.org/tutorials/analyzingData/cleanTheData/purposeDataCleaning.html
+
+http://www.amosweb.com/cgi-bin/awb_nav.pl?s=wpd&c=dsp&k=taxes
+
+Test 1095 FINANCE CLUSTER EXAM—KEY 16
+
+24. C
+
+Personal consumption expenditures. Personal consumption expenditures include the final market value 
+
+of all services and new and used goods purchased for consumption by individuals and nonprofit 
+
+institutions. Everything that individuals and families buy for personal use is counted in this GDP category. 
+
+The items sold by the local fish market are part of this category because they are purchased by 
+
+consumers for their personal consumption. Net exports of goods and services, gross private domestic 
+
+investment, and government purchases of goods and services are other categories of gross domestic 
+
+product, but they do not include items sold by a local fish market.
+
+SOURCE: EC:017
+
+SOURCE: EC LAP 1—Measure Up? (Gross Domestic Product)
+
+25. A
+
+Increases, increase. Interest is the reward or cost of lending or borrowing money, and this amount is 
+
+usually figured as a percentage of the amount of money borrowed. The interest rate is the percentage 
+
+figure used to calculate interest. Many factors affect interest rates, including government policies and the 
+
+business cycle. The nation's rate of inflation, which is how quickly prices are rising in the marketplace, 
+
+can affect interest rates. When the inflation rate increases rapidly, the interest rates also increase. This 
+
+occurs because there is less money available for financial institutions to loan to individuals and 
+
+businesses. When the inflation rate levels off, prices tend to stabilize, and in some situations, prices may 
+
+decrease.
+
+SOURCE: EC:084
+
+SOURCE: Financial Web. (n.d.). Factors influencing interest rates. Retrieved October 25, 2013, from 
+
+26. C
+
+Identify one strength for every weakness. It's important to identify weaknesses, but it's destructive to 
+
+obsess over them. There's no need to review them each day or to find a new one each day. And, there's 
+
+certainly no need to minimize your strengths. Try to identify one strength for every weakness to keep 
+
+things in perspective.
+
+SOURCE: EI:002
+
+SOURCE: EI LAP 17—Assess for Success (Assessing Personal Strengths and Weaknesses)
+
+27. D
+
+Interest and enthusiasm. The salesperson has shown an immediate interest in the customer's request 
+
+and given an enthusiastic response. The salesperson does not have a negative attitude, which would be 
+
+characterized by boredom and indifference. The extent of his/her product knowledge cannot be judged by 
+
+the response to a single question.
+
+SOURCE: EI:020
+
+SOURCE: Wallace, H.R., & Masters, L.A. (2006). Personal development for life & work (9th ed.) [p. 
+
+28. C
+
+Initiative. A person with initiative is willing to accept/seek additional duties and responsibilities without 
+
+having to be urged. The term empathy refers to a person's sensitivity to and understanding of others. 
+
+Tact refers to a person's ability to express his/her ideas and beliefs without offending others. Selfishness 
+
+means being overly concerned about one's own needs and interests.
+
+SOURCE: EI:024
+
+SOURCE: EI LAP 2—Hustle! (Taking Initiative at Work)
+
+29. C
+
+Increased cooperation. Cooperation among workers creates a pleasant work atmosphere, and it is one of 
+
+the benefits of empathy in the workplace. Empathy is the ability to put yourself in another person's place, 
+
+and it fosters harmonious relations and reduces friction. It does not necessarily create an impressive 
+
+image.
+
+SOURCE: EI:030
+
+SOURCE: EI LAP 12—Have a Heart (Showing Empathy for Others)
+
+http://www.finweb.com/banking-credit/factors-influencing-interest-rates.html
+
+187]. Mason, OH: South-Western Cengage Learning.
+
+Test 1095 FINANCE CLUSTER EXAM—KEY 17
+
+30. C
+
+Western cultures embrace the idea that working hard will reap personal rewards and fulfillment. Culture 
+
+refers to the customs, habits, and traditions of a particular group of people. Because culture and cultural 
+
+differences affect business relationships, it is important for businesspeople to understand and adapt to 
+
+cultural differences in business situations (i.e., exhibit cultural sensitivity). Individualism is the degree to 
+
+which a group of people value independent work and accomplishments. Western culture (e.g., Canada, 
+
+United States, England) places a high value on individual accomplishments achieved through hard work. 
+
+On the other hand, collectivism is an emphasis on group work and accomplishments. Eastern cultures 
+
+(e.g., China, Japan) tend to value group decision making and accomplishments over individual efforts. 
+
+Time and gender roles are important considerations when exhibiting cultural sensitivity, but these factors 
+
+are not related to the concept of individualism.
+
+SOURCE: EI:033
+
+SOURCE: EI LAP 11—Getting to Know You (Cultural Sensitivity)
+
+31. A
+
+At work. Refusing requests can be a particularly tough task at work. There are times when you can't 
+
+reasonably say “no,” such as when your manager assigns you a new project or when a client has an 
+
+unbreakable deadline. However, there are times when saying “no” is necessary and even makes you a 
+
+better employee. Refusing requests isn't necessarily tougher when you are sick or during the summer. 
+
+Aggressive people usually have no trouble saying “no.”
+
+SOURCE: EI:008
+
+SOURCE: EI LAP 18—Assert Yourself (Assertiveness)
+
+32. B
+
+Is often more specific than organizational vision. Organizational vision and team vision differ in that team 
+
+vision is often more specific, not more general, than organizational vision because it addresses specific 
+
+work tasks. Team vision complements the organizational vision that has already been predetermined by 
+
+the company's leaders. Though the two visions may differ slightly, they will both be headed in the same 
+
+direction.
+
+SOURCE: EI:060
+
+SOURCE: EI LAP 13—Vision Quest (Enlisting Others in Vision)
+
+33. D
+
+Installment. Installment credit is commonly used to purchase large, expensive items such as cars. The 
+
+title for an item purchased on installment credit is made out in the name of the credit user; however, the 
+
+seller retains a claim on the title until all of the payments have been made. Regular credit accounts are 
+
+used to obtain small-ticket items during a set period of time, usually 30 days. Budget credit accounts 
+
+advertise credit terms such as "90 Days Same as Cash." Revolving credit accounts involve setting a 
+
+credit limit and paying the amount due each month or making minimum, monthly payments on the 
+
+account.
+
+SOURCE: FI:002
+
+SOURCE: FI LAP 2—Give Credit Where Credit is Due (Credit and Its Importance)
+
+34. C
+
+Co-signer. When a borrower agrees to a loan, s/he is making a contractual agreement to pay back the 
+
+loan in a certain manner within a specific period of time. When the borrower does not have the collateral 
+
+or credit history to obtain the loan, the lender often requests that another person co-sign for the loan. A 
+
+co-signer is responsible for paying back the loan if the borrower does not. The credit union, Treasury 
+
+Department, and debt collectors are not responsible for repaying a loan unless they agree to be co-
+signers on loan contracts.
+
+SOURCE: FI:063
+
+SOURCE: Kapoor, J.R., Dlabay, L.R., Hughes, R.J., & Hoyt, W.B. (2005). Business and personal 
+
+finance (pp. 182-183). New York: Glencoe/McGraw-Hill.
+
+Test 1095 FINANCE CLUSTER EXAM—KEY 18
+
+35. C
+
+Obtain short-term capital. Businesses can make either short-term or long-term investments. Short-term 
+
+investments are those that a business holds for less than one year. Some businesses make short-term 
+
+investments to generate capital in a short amount of time. They might need short-term capital to finance 
+
+special projects or to expand the business. For example, a business invests $100,000 in a stock that is 
+
+appreciating in value by 15% annually. The business can sell the stock prior to the one-year point and 
+
+probably obtain the 15% increase which amounts to $15,000. Long-term wealth is capital that 
+
+accumulates over a period of several years. Businesses do not hold investments for less than one year to 
+
+reduce tax obligations or control inflation rates.
+
+SOURCE: FI:270
+
+SOURCE: Investopedia. (2013). Short-term investments. Retrieved October 24, 2013, from 
+
+36. C
+
+Compounding. Compounding takes place whenever you earn interest on interest. It has the potential to 
+
+increase the value of an investment exponentially over time. Zach's original investment of $300 grew by 
+
+$30 over the first year. In the second year, Zach experienced a 10 percent gain on his original $300 plus 
+
+on the additional $30 that he had earned during the first year. In the third year, Zach experienced another 
+
+10 percent on his original $300 plus on the additional $63 that he had earned during the first two years. 
+
+Opportunity cost refers to the trade-off that occurs when you choose one alternative over another. 
+
+Banking services is a career area in which employees are primarily concerned with accepting deposits, 
+
+lending funds, and extending credit to bank customers. Globalization refers to the rapid and unimpeded 
+
+flow of capital, labor, and ideas across national borders.
+
+SOURCE: FI:270
+
+SOURCE: QS LAP 30—Supersize Your Money
+
+37. B
+
+Purchase. When individuals make investments, they receive purchase documents that include 
+
+information about the cost of the investment and any commissions or fees that were paid. Individuals 
+
+should keep these documents in their records to verify ownership and to be able to determine if it was a 
+
+good investment over a period of time. For example, the purchase record would indicate the cost 
+
+(perhaps it was $25 a share), the total amount purchased (100 shares for a total of $2,500), and a fee of 
+
+$30. By comparing the purchase records to actual value in five years, an individual will be able to decide 
+
+if the investment was worthwhile. Perhaps the cost per share is $40 a share in five years. An individual 
+
+might consider this to be a good return on the investment. Deposit and credit records usually do not 
+
+contain information about investments. Logistics refer to managing the flow of goods and services from 
+
+production to consumption. 
+
+SOURCE: FI:069
+
+SOURCE: Kapoor, J.R., Dlabay, L.R., Hughes, R.J., & Hoyt, W.B. (2005). Business and personal 
+
+38. D
+
+Mortgage company. A primary function of a non-deposit financial institution is to lend money to qualified 
+
+customers. For example, mortgage companies arrange loans for individuals to purchase homes and for 
+
+businesses to purchase office buildings, production facilities, or warehouses. Deposit-taking financial 
+
+institutions accept funds from customers (depositors) and pay interest on the accepted funds. Credit 
+
+unions, commercial banks, savings and loan associations (banks), and mutual savings banks are types 
+
+of deposit-taking financial institutions.
+
+SOURCE: FI:336
+
+SOURCE: Dlabay, L.R., & Burrow, J.L. (2008). Business finance (pp. 18-19). South-Western Cengage 
+
+http://www.investopedia.com/terms/s/shorterminvestments.asp
+
+finance (pp. 261-262). New York: Glencoe/McGraw-Hill.
+
+Learning.
+
+Test 1095 FINANCE CLUSTER EXAM—KEY 19
+
+39. B
+
+Making payments on behalf of savers to creditors. Deposit-taking institutions commonly accept deposits 
+
+(funds) from savers and use those deposits to make payments on behalf of savers to individuals, firms, 
+
+and creditors to whom the savers owe money. Deposit-taking institutions, which include commercial 
+
+banks, credit unions, savings and loan associations, trust companies, and mortgage companies, also use
+
+those deposits to offer loans to borrowers. Investment banks, which are investment institutions, raise 
+
+funds for clients by issuing securities. Government and semigovernment financial institutions carry out 
+
+regulatory and supervisory functions. They also increase the funds available to investors, manage risk, 
+
+and assume risk. Insurance companies, which are categorized as finance and insurance institutions, use 
+
+funds from premiums to offer loans. They also manage and pool individuals' risk, invest funds to raise 
+
+more capital, and create investment products.
+
+SOURCE: FI:336
+
+SOURCE: MBA Research and Curriculum Center. (2009). Introduction to finance course guide (pp. 5-
+
+40. A
+
+On the Over the Counter Bulletin Board (OTCBB). Very small companies that don't meet organized 
+
+exchange listing requirements as well as companies with poor credit ratings are likely to trade their stock 
+
+on the Over the Counter Bulletin Board (OTCBB). The OTCBB is a regulated electronic exchange with no 
+
+listing requirements. Therefore, stocks traded on the OTCBB are likely to be riskier investments than 
+
+stocks traded on organized exchanges such as the New York Stock Exchange or the Toronto Stock 
+
+Exchange. The American Stock Exchange is an organized exchange which became the NYSE Amex 
+
+Equities in 2009.
+
+SOURCE: FI:337
+
+SOURCE: Investopedia. (2013). Over-the-counter (OTC). Retrieved October 25, 2013, from 
+
+41. D
+
+To lower costs. Consolidation is the merging of financial providers within the same institutional category. 
+
+For example, consolidation occurs when two banks merge to form one bank. By consolidating, the 
+
+financial firms can achieve economies of scale, which result in reduced redundancy and lower costs. 
+
+Consolidation can increase the assets (liquid capital) for all of the financial firms involved. Consolidation 
+
+can also provide consumers with a wider range of financial products. Consolidation may or may not lower 
+
+business risk.
+
+SOURCE: FI:573
+
+SOURCE: MBA Research and Curriculum Center. (2009). Introduction to finance course guide
+
+42. D
+
+Fully integrated financial services provider. There are several different types of financial firms that offer 
+
+integrated financial services. A fully integrated financial services provider offers multiple types of financial 
+
+products (e.g., loans, insurance, trust services, etc.) using one pool of capital. A universal bank is a 
+
+corporate entity that offers banking products directly to customers but also sells other financial products, 
+
+especially insurance, through subsidiaries. Each subsidiary has its own pool of capital. A financial holding 
+
+company, also known as a parent company, owns most or all of the shares of individually incorporated 
+
+subsidiaries that engage in different types of financial activities. Like subsidiaries of a universal bank, 
+
+each subsidiary of a financial holding company has its own pool of capital. Universal bank and trust 
+
+corporations and consolidated cross-product parent companies are fictitious terms.
+
+SOURCE: FI:573
+
+SOURCE: MBA Research and Curriculum Center. (2009). Introduction to finance course guide 
+
+19-5-20). Columbus, OH: Author.
+
+http://www.investopedia.com/terms/o/otc.asp
+
+(pp. 5-106, 5-107). Columbus, Ohio: Author.
+
+(pp. 5-106 - 5-107). Columbus, OH: Author.
+
+Test 1095 FINANCE CLUSTER EXAM—KEY 20
+
+43. A
+
+An individual buys 10 shares of stock for $150 per share on one market, and immediately sells each 
+
+share for $200 on another market. Arbitrage is profiting from the sale of a financial instrument (e.g., 
+
+stock) or good on a different market. Arbitrage often involves the buying and selling of goods and other 
+
+types of services. For example, a person who buys a set of football tickets from a sport organization for 
+
+$100 and sells them on E-bay to another person for $500 is engaging in arbitrage. When an individual 
+
+earns interest on his/her money by agreeing to leave it in a financial institution for a certain timeframe, 
+
+s/he is investing in a certificate of deposit. Businesses that set aside money for their employees' 
+
+retirement are contributing to a pension plan. A business that sells bonds is using debt financing to raise 
+
+funds for its expansion efforts.
+
+SOURCE: FI:574
+
+SOURCE: Moffatt, M. (n.d.). What is arbitrage? Retrieved October 25, 2013, from 
+
+44. D
+
+Fall. The Consumer Price Index measures the prices of consumer goods. In the U.S., it is published 
+
+monthly by the Bureau of Labor Statistics. However, most experts conduct a “year-on-year” comparison 
+
+to better understand increases and/or decreases in the CPI. An increase in the CPI signals an increase in 
+
+inflation. A sharp increase in inflation causes interest rates and bond values to rise and stock prices to 
+
+fall.
+
+SOURCE: FI:574
+
+SOURCE: Clayton, G.E. (2005). Economics: Principles & practices (pp. 350-353). New York: 
+
+45. C
+
+Business cycle risks. By investing their funds in many different countries, investors are able to diversify 
+
+their risk and reduce their exposure to business cycle risks. However, financial globalization seems to 
+
+increase the risks of “speculative bubbles” and “herd behavior” of investors. Liberalization is the removal 
+
+of government regulations on the flow of capital and international trade. Many countries around the world 
+
+have reduced or eliminated limits on foreigners' access to their financial markets. Capital appreciation 
+
+occurs when stock that a person owns becomes worth more than what the person paid for it. Capital 
+
+appreciation is a positive aspect of investing, not something to avoid.
+
+SOURCE: FI:575
+
+SOURCE: MBA Research and Curriculum Center. (2009). Introduction to finance course guide 
+
+46. B
+
+How are your fees structured? Because financial planners are compensated in different ways, it is 
+
+important to consider the fee structure when selecting a financial-services provider. Some financial 
+
+planners charge a flat fee, while others base their fees on the number and size of transactions. Some 
+
+financial planners charge for research and consulting time. Therefore, it is important to ask financial 
+
+planners about their fee structures, so investors can determine if they can afford the fees. A financial 
+
+planner may provide references for a potential client, but the potential client does not generally need to 
+
+provide the financial planner with references. It is inappropriate to ask the financial planner about his/her 
+
+personal income. Where the financial planner attended school is irrelevant.
+
+SOURCE: FI:076
+
+SOURCE: Kapoor, J.R., Dlabay, L.R., Hughes, R.J., & Hoyt, W.B. (2005). Business and personal 
+
+47. C
+
+A company's annual report. A company's annual report is an example of an internal source, because it 
+
+comes from the company itself. The ValueLine Investment Survey, brokerage firm research, and financial 
+
+web portals are all examples of external stock information resources.
+
+SOURCE: FI:274
+
+SOURCE: QS LAP 36—The Source Is With You (Finding and Evaluating Securities Information)
+
+http://economics.about.com/cs/finance/a/arbitrage_3.htm
+
+Glencoe/McGraw-Hill.
+
+(pp. 5-156 - 5-158). Columbus, OH: Author.
+
+finance (pp. 260-261). New York: Glencoe/McGraw-Hill.
+
+Test 1095 FINANCE CLUSTER EXAM—KEY 21
+
+48. A
+
+Volatile. Prices that rise and fall sharply are said to be volatile. Stable, healthy, or solid are not words that 
+
+would be used to describe a volatile stock.
+
+SOURCE: FI:275
+
+SOURCE: QS LAP 37—Table Talk
+
+49. A
+
+Economic. Technological developments are a type of economic risk that cannot be controlled. Human 
+
+risk is caused by human weaknesses and/or unpredictability. Natural risks result from natural causes 
+
+such as fire, weather conditions, and perishability.
+
+SOURCE: FI:084
+
+SOURCE: Clark, B., Sobel, J., & Basteri, C.G. (2010). Marketing dynamics: Teacher's edition (2nd ed.) 
+
+50. B
+
+Determining resources available to fund a new project. Managers use financial information on many 
+
+occasions, including when planning strategies, executing strategies, and evaluating the execution of 
+
+strategies. For example, a manager would use financial information to determine what financial resources 
+
+are available to fund a new project that s/he is planning. To research the demographics of a new target 
+
+market, information gathered through market research would be more useful. Financial information is not 
+
+used to calculate the number of on-the-job injuries or to establish lines of authority within an organization.
+
+SOURCE: FI:579
+
+SOURCE: Dlabay, L.R., & Burrow, J.L. (2008). Business finance (pp. 342-343). South-Western 
+
+51. A
+
+Professional integrity. Demonstrating integrity involves adhering to an established set of personal ethics 
+
+and sound moral principles. Ethics are the basic principles that govern an individual's behavior. The role 
+
+of ethics in accounting is to serve as a guide for professional conduct. This is important because 
+
+accounting involves keeping and interpreting financial records, which managers and stakeholders use to 
+
+make decisions about the business. Therefore, accounting professionals must demonstrate professional 
+
+integrity to ensure that the information they collect and present is accurate and objective. Although 
+
+innovation, collaboration, empathy, and flexibility are admirable traits, preparing accurate and objective 
+
+financial information does not require accounting professionals to demonstrate these characteristics.
+
+SOURCE: FI:351
+
+SOURCE: eNotes. (2013). Ethics in accounting. Retrieved October 25, 2013, from 
+
+52. B
+
+Customer service sending brochures about the company's loans to people who've just taken out loans 
+
+with the company. Financial-information management systems tie financial transaction data with non-
+financial transaction data so that money is not wasted on promoting financial products to those who've 
+
+just obtained the financial product. They encompass both processes and technologies to manage data 
+
+about finances, internal operational information, and external market and competitive indicators. Use of a 
+
+financial-information management system will not keep a company's computer from crashing, nor will it 
+
+keep different versions of a database application from being incompatible. Mergers and acquisitions 
+
+present a challenge to the finance industry in terms of financial-information management; however, its 
+
+use will not eliminate mergers and acquisitions from happening.
+
+SOURCE: FM:002
+
+SOURCE: Acevedo, L. (n.d.). What are the benefits of a financial information management system?
+
+[pp. 399-400]. Tinley Park, IL: Goodheart-Willcox Company, Inc.
+
+Cengage Learning.
+
+http://www.enotes.com/topics/ethics-accounting
+
+Retrieved October 25, 2013, from http://www.ehow.com/facts_5031791_benefits-financial-
+management-information-system.html 
+
+Test 1095 FINANCE CLUSTER EXAM—KEY 22
+
+53. C
+
+A financial-information management system can be used to support operations management decisions. 
+
+Operations managers might use a financial-information management system to determine operating 
+
+efficiency, manage inventory, or evaluate key suppliers. Although technology is an integral part of 
+
+financial-information management function, it is not the only part. The financial-information management 
+
+function involves people, processes, and equipment/technology. Due to increased compliance 
+
+requirements, the financial-information management function's responsibilities have increased in recent 
+
+years. Much more data must be maintained by the financial-information management system for longer 
+
+periods of time as a result of new laws and regulations. Data in a financial-information management 
+
+system should be current. In many situations, decision makers need to know what is happening right 
+
+now, not what happened months or even years ago.
+
+SOURCE: FM:002
+
+SOURCE: Dlabay, L.R., & Burrow, J.L. (2008). Business finance (p. 341). South-Western Cengage 
+
+54. B
+
+Implement security policies. Businesses have an ethical responsibility to maintain the privacy of their 
+
+customers' financial information. Businesses must take precautions to ensure that customers' credit, 
+
+loan, and other types of financial data are kept confidential. To maintain confidentiality, businesses must 
+
+develop and implement security policies. The policies may restrict the employees' access to customers' 
+
+financial information. The policies may also involve the use of computer safety measures, such as 
+
+firewalls and encryption techniques. Collection procedures are the activities that the business uses to 
+
+collect funds owed by others. Developing collection procedures, monitoring competitors' activities, and 
+
+reviewing inventory systems are not actions that will help businesses protect the privacy of their 
+
+customers' financial information.
+
+SOURCE: FM:003
+
+SOURCE: Dlabay, L.R., & Burrow, J.L. (2008). Business finance (pp. 355-359). Mason, OH: South-
+Western Cengage Learning.
+
+55. C
+
+Central data repository. A central data repository is a comprehensive database containing financial data 
+
+from throughout the organization. By compiling all of these data in one large, powerful database, the data 
+
+are more consistent and up-to-date, managers can get faster responses to their queries, and the 
+
+organization enjoys economies of scale in the realm of financial-information management. Disparate data 
+
+systems contain multiple databases scattered throughout the enterprise that do not necessarily work 
+
+together or contain consistent information. An intrusion detection system is a technological safeguard 
+
+used to ensure the security of financial information. A financial holding company is a company that owns 
+
+most or all of the shares of individually incorporated subsidiaries that engage in different types of financial 
+
+activities.
+
+SOURCE: FM:011
+
+SOURCE: InterSystems. (1996-2013). Caché and data management in the financial services industry. 
+
+Learning.
+
+Retrieved October 25, 2013, from 
+
+http://www.intersystems.com/cache/whitepapers/datamanagement_wp.html
+
+56. B
+
+To identify hidden patterns. Data mining is the process of searching computer databases to look for 
+
+patterns and relationships among information, some of which are not obvious. For example, data mining 
+
+might reveal that a credit-card company's customers often use their credit cards to buy gasoline on 
+
+Thursday afternoons between 3:00 p.m. and 7:00 p.m. The business could use this information to 
+
+develop special programs or promotions to appeal to these customers. The data-mining process might 
+
+involve sifting through a vendor's data, or it might reveal problems; however, the primary purpose of data 
+
+mining is not to calculate statistical ratios, collect data from vendors, or resolve unidentified problems. 
+
+SOURCE: FM:012
+
+SOURCE: Aaker, D.A., Kumar, V., & Day, G.S. (2007). Marketing research (9th ed.) [p. 711]. Hoboken, 
+
+NJ: John Wiley & Sons, Inc.
+
+Test 1095 FINANCE CLUSTER EXAM—KEY 23
+
+57. B
+
+Budgeting tools. A budget is an estimate of income and expense for a specific timeframe. A budget is an 
+
+important financial tool that helps the business manage its money. Many websites provide budgeting 
+
+tools such as software downloads or free printable worksheets. Legal data, statistical information, and 
+
+organizational charts are not tools that help small-business owners plan and manage their income and 
+
+expenses.
+
+SOURCE: FM:013
+
+SOURCE: About.com. (2013). Budget worksheet. Retrieved October 25, 2013, from 
+
+58. D
+
+Debt management. The primary function of budgeting software is to help a business forecast and monitor 
+
+income and expenses for all of its functions including sales, promotion, production, payroll, etc. Advanced 
+
+software can generate different types of reports by integrating financial data from a variety of sources 
+
+(e.g., cash flows, “what if” scenarios) to help the business make decisions about how to best manage its 
+
+debt (expenses). Businesses often use production-management or project-management software for 
+
+scheduling and sequencing and for allocating materials for production or a project.
+
+SOURCE: FM:013
+
+SOURCE: Centage Corporation. (2013). Compare Budget Maestro budgeting software products. 
+
+http://financialplan.about.com/cs/budgeting/l/blbudget.htm
+
+Retrieved October 25, 2013, from http://centage.com/Products/Editions/Budget-Maestro-
+Compare.asp
+
+59. C
+
+Financial outcomes. Computer spreadsheet software has the ability to calculate formulas and organize 
+
+numerical data. When a business inputs different values or sets of numerical data in a spreadsheet, the 
+
+spreadsheet software calculates the values or sets of data, which provides different outcomes based on 
+
+the values or sets of data that were used. By reviewing the various outcomes, the business can 
+
+determine the best course of action to take under particular circumstances; the “what ifs” of specific 
+
+situations. Production strategies are the activities used to produce goods and services. Distribution 
+
+methods are the strategies that a business uses to make sure that products are delivered to the right 
+
+people at the right place at the right time. Accounting standards are the degrees to which accounting 
+
+practices (financial recordkeeping) meet certain criteria.
+
+SOURCE: FM:014
+
+SOURCE: Dlabay, L.R., & Burrow, J.L. (2008). Business finance (pp. 342-343). Mason, OH: South-
+Western Cengage Learning.
+
+60. A
+
+They use a lot of space. Suffix trees are data structures used to speed up exact matches of a query 
+
+sequence in a database. Their use does consume a lot of space. Other drawbacks of suffix trees are that 
+
+they are unbalanced, that they represent specialized data structures, and that they support contiguous 
+
+substring queries.
+
+SOURCE: FM:015
+
+SOURCE: Wikipedia. (2013). Suffix tree. Retrieved October 25, 2013, from 
+
+61. A
+
+Civil and/or criminal penalties. If a business misleads lenders and investors with inaccurate financial data, 
+
+the company's executives, financial managers, and other personnel may face civil and/or criminal 
+
+penalties for their wrongdoing. Although inaccurate financial data may tempt some individuals to invest in 
+
+the company, civil and/or criminal penalties are a more likely consequence. Inaccurate financial data are 
+
+not likely to cause a two-for-one stock split. The actions of just one company are not likely to cause the 
+
+economy to contract.
+
+SOURCE: FM:004
+
+SOURCE: Dlabay, L.R., & Burrow, J.L. (2008). Business finance (pp. 115,126). Mason, OH: South-
+Western Cengage Learning.
+
+http://en.wikipedia.org/wiki/Suffix_tree
+
+Test 1095 FINANCE CLUSTER EXAM—KEY 24
+
+62. D
+
+Measure the firm's competitiveness and performance. Because many investors and financial analysts 
+
+look at a business's financial statements to measure the firm's competitiveness and performance, the 
+
+business should make every effort to report its financial position accurately. If it does not, investors and 
+
+financial analysts may shy away from purchasing the company's stock. If the company's financial 
+
+statements underestimate its performance, investors and financial analysts may avoid the company 
+
+because it looks unprofitable. And, if the financial statements are overly positive, investors and financial 
+
+analysts may come to distrust the company because it overstates its success. A company's financial 
+
+statements are not likely to help investors and financial analysts to identify new products that the firm 
+
+plans to introduce next year, determine the size and makeup of the firm's workforce, or assess the 
+
+effectiveness of the firm's risk-management system.
+
+SOURCE: FM:004
+
+SOURCE: Codjia, M. (n.d.). Proper way to present a financial statement. Retrieved October 25, 2013, 
+
+63. C
+
+Securing business credit. Finance is the function of business that involves all money and money 
+
+management matters. The purpose of the finance function is to boost a company's growth and reduce its 
+
+risks. One way the finance function boosts a company's growth is by securing appropriate business 
+
+credit. Finance managers use accounting information to make financial decisions about the company. 
+
+Accounting is a finance activity that involves keeping and interpreting financial records. Preparing payroll, 
+
+processing accounts receivable, and developing depreciation schedules are activities performed by the 
+
+accounting function.
+
+SOURCE: FM:005
+
+SOURCE: Dlabay, L.R., & Burrow, J.L. (2008). Business finance (pp. 102-103). South-Western 
+
+64. D
+
+Accrual. The accrual accounting system records transactions at the time they occur even if no money 
+
+changes hands at the time, such as a purchase made with credit. Most businesses use this method 
+
+because it more accurately reflects the business's overall financial position. The cash accounting method 
+
+records income and expenditures at the time the money changes hands; this can result in income and 
+
+expenses not appearing in the same time period. Managerial accounting provides financial information 
+
+internally to managers, which helps them make appropriate business decisions. Perpetual is a type of 
+
+inventory system that updates inventory information on a continuous basis as transactions occur.
+
+SOURCE: FM:006
+
+SOURCE: Business Owners Toolkit. (2012, May 24). The accounting system and accounting basics. 
+
+from http://www.ehow.com/about_7467971_proper-way-present-financial-statement.html
+
+Cengage Learning.
+
+Retrieved October 25, 2013, from http://www.bizfilings.com/toolkit/sbg/finance/basic-
+accounting/accounting-system-accounting-basics.aspx
+
+65. B
+
+Job order. Businesses that can track their costs to a specific job or order often use a job order cost 
+
+accounting system. Attorneys can usually identify which client should be charged for certain expenses, 
+
+while auto mechanics charge each client individually for the parts and labor needed to repair his/her 
+
+automobile. Process cost accounting works well for businesses that produce standard products 
+
+continuously. Consumer and cyclic cost accounting systems are fictitious terms.
+
+SOURCE: FM:006
+
+SOURCE: Price, J.E., Haddock, M.D., & Brock, H.R. (2007). College accounting: Chapters 1-32 
+
+66. D
+
+Data in financial reports from multiple time periods. Trends indicate the direction that something is 
+
+headed. They depict patterns. Horizontal analysis requires the comparison of data over a period of time. 
+
+You cannot look at a single financial report and spot trends for a horizontal analysis.
+
+SOURCE: FM:008
+
+SOURCE: Dlabay, L.R., & Burrow, J.L. (2008). Business finance (pp. 83-84). South-Western Cengage 
+
+instructor edition (11th ed.) [p. 1010]. New York: McGraw-Hill Irwin.
+
+Learning.
+
+Test 1095 FINANCE CLUSTER EXAM—KEY 25
+
+67. A
+
+Develop a financial strategy to help the customer. Whether the finance professional works internally or 
+
+externally, or works with individuals or businesses, s/he should be able to analyze the customer's 
+
+financial information to recommend an appropriate financial strategy for the "customer." Business 
+
+management would declare a company in bankruptcy based on information provided by the finance 
+
+professional. Just having a customer's financial information requires finance professionals to protect its 
+
+privacy—analysis is not required. The customer's marketing department would determine its newest 
+
+target market, while the finance professional will measure the target market's profitability.
+
+SOURCE: FM:009
+
+SOURCE: Kolakowski, M. (n.d.). Financial planner. Retrieved October 25, 2013, from 
+
+68. A
+
+Customer's ability to pay. Credit is the arrangement by which businesses or individuals can purchase 
+
+now and pay later. Before offering credit to a prospective customer, the business needs to analyze the 
+
+customer's financial status to determine if the customer has the money available to make payments on 
+
+time and in the full amount of the agreement. Businesses review the customer's income, assets, debt 
+
+ratio, credit history, etc. If the customer's financial status meets the business's credit standards, then a 
+
+credit arrangement is a viable option. If the customer carries high debt in relation to assets, it would be 
+
+too risky for the business to offer credit because the customer is more likely to become delinquent. The 
+
+business does not analyze risks related to its own accounting processes or reporting strategies. A 
+
+beneficiary is a person who receives benefits, most often money, from another person. For example, a 
+
+beneficiary of a life-insurance policy receives money upon the insured's death. 
+
+SOURCE: FM:009
+
+SOURCE: Longenecker, J.G., Moore, C.W., Petty, J.W., & Palich, L.E. (2006). Small business 
+
+http://financecareers.about.com/od/financialplanner/a/finplanner.htm 
+
+management: An entrepreneurial emphasis (13th ed.) [pp. 343-344]. Mason, OH: Thomson 
+
+South-Western.
+
+69. A
+
+To understand accounting treatment. By reviewing a business's financial data, a finance professional can 
+
+learn whether the business is using accrual or cash accounting methods. With the accrual method, 
+
+transactions are recorded at the time they occur, rather than when payment is received or made. With 
+
+cash accounting, transactions are recorded when payment is received or made. The accrual method is 
+
+used by most businesses since it allows the current cash flows to be combined with future expected cash 
+
+flows, thereby giving a more accurate picture of a company's current financial condition. Cash accounting 
+
+presents a more conservative view of a company's financial situation; therefore, it's important to analyze 
+
+financial data to determine the accounting treatment that has been used. Marketing and management 
+
+determine what products need to be recalled. Recalls are generally due to safety issues. Financial data 
+
+are quantitative data rather than qualitative data. Financial models are used in analyzing financial data 
+
+rather than being an outcome of the analysis.
+
+SOURCE: FM:010
+
+SOURCE: Wicked How-To's. (2007-2013). Accrual basis vs cash basis accounting: The differences. 
+
+Retrieved October 25, 2013, from http://wickedhowtos.com/index.php/2008/05/21/accrual-
+basis-vs-cash-basis-accounting-the-differences/
+
+70. C
+
+Cash-flow statement. The cash-flow statement is a financial summary that contains estimates as to 
+
+when, where, and how much money will flow into and out of a business. Analyzing the cash-flow 
+
+statement will help a business determine if it will have enough money coming in to pay its short-term 
+
+expenses. The business plan is the business's written business model—it describes how the business 
+
+will achieve its objectives. The capital-investment plan describes the business's assets and how the 
+
+business plans to use them over time. A mutual-funds statement is a status report sent to investors to let 
+
+them know how their mutual funds are performing. 
+
+SOURCE: FM:010
+
+SOURCE: Bovée, C.L., Thill, J.V., & Mescon, M.H. (2007). Excellence in business (3rd ed.) 
+
+[pp. 534-535]. Upper Saddle River, NJ: Pearson Prentice Hall.
+
+Test 1095 FINANCE CLUSTER EXAM—KEY 26
+
+71. D
+
+Strategic management. When HR management executives participate in a company's long-range 
+
+planning efforts, they are taking part in strategic management. Strategic management may take into 
+
+account marketing, budgeting, and financial analysis, but HR managers will be present to ensure that the 
+
+company is planning now to have the human resources it needs tomorrow.
+
+SOURCE: HR:410
+
+SOURCE: HR LAP 35—People Pusher (Nature of Human Resources Management)
+
+72. B
+
+Competition. Competition is an environmental (external) factor that can influence a business's buying 
+
+behavior. A business can't control its competition, but it may respond to it through creating new products 
+
+or promotions, which can require changes in buying habits. Business structure is an internal, 
+
+organizational factor that influences buying behavior. Subculture and family are two factors that influence 
+
+individual consumers' buying behavior. 
+
+SOURCE: MK:014
+
+SOURCE: MK LAP 6—Cause and Effect (Buying Behavior)
+
+73. C
+
+Comparing the information with other articles about the topic. When other articles from reputable sources 
+
+confirm the information from the original article, the information in the original article is more likely to be 
+
+reliable. Evaluating the author's writing style, gathering internal reports from the company's database, 
+
+and asking others for their opinions are not actions that will verify the reliability of the article's information.
+
+SOURCE: NF:079
+
+SOURCE: Rogier, M. (n.d.). How to determine the validity of a research article. Retrieved October 25, 
+
+74. A
+
+Satellite technology. Global positioning systems (GPS) rely on the use of satellite technology. Businesses 
+
+use GPS to find directions, track shipments, etc. Voice over Internet Protocol is a type of technology that 
+
+allows users to make voice and video calls online, rather than through traditional public networks. 
+
+Cellphone technology allows users to make calls anywhere, any time. Though users might be able to 
+
+check satellite information online, GPS do not rely on the Internet.
+
+SOURCE: NF:003
+
+SOURCE: NF LAP 4—TECH-tastic (Technology's Impact on Business)
+
+75. D
+
+Browser. A browser is software that allows a computer to access information on the Internet. It has the 
+
+capability of searching for and locating information on the Web and displaying that information, which 
+
+then can be printed or saved. Microsoft's Internet Explorer is an example of a web browser. Mozilla 
+
+Firefox is another browser. A cookie is a bit of information that a website collects about each viewer. A 
+
+bookmark is Internet Explorer's term for marking a website for later reference. A server is a computer that 
+
+provides services to another computer.
+
+SOURCE: NF:006
+
+SOURCE: Wikipedia.com. (2013). Internet explorer. Retrieved October 25, 2013, from 
+
+76. C
+
+Global competition. Businesses throughout the world are competing for the same customers as a result 
+
+of technological advances. Improved communication and transportation methods have made goods and 
+
+services available to previously untapped markets. Consequently, foreign businesses are selling to 
+
+customers who formerly bought goods only from local companies. The foreign competitor has an impact 
+
+on a local business and may force it to lower prices or offer additional services in order to survive. 
+
+Physical environment, domestic transportation, and social behavior are not business trends.
+
+SOURCE: NF:013
+
+SOURCE: Farese, L.S., Kimbrell, G., Woloszyk, C.A. (2012). Marketing essentials (p. 93). Columbus, 
+
+2013, from http://www.ehow.com/how_5035804_determine-validity-research-article.html#
+
+http://en.wikipedia.org/wiki/Internet_Explorer
+
+OH: Glencoe/McGraw-Hill.
+
+Test 1095 FINANCE CLUSTER EXAM—KEY 27
+
+77. A
+
+Import/Export regulations. Import/Export regulations are a factor that relates to government. The 
+
+government can have a great influence on a business's decision making, so it is important to include 
+
+government in any environmental scan. Religious affiliation is a piece of demographic data. Stage of the 
+
+business cycle relates to the economy. Advances in technology will be scanned in a separate category.
+
+SOURCE: NF:015
+
+SOURCE: NF LAP 2—Get the 411 (Environmental Scanning)
+
+78. D
+
+7. Central tendency refers to a type of average. Mode is a measure of central tendency and is the 
+
+number that appears most frequently in a group of numbers. A business might determine the mode so it 
+
+can identify the most common responses for questions appearing on a customer survey. The business 
+
+assigns a numerical value to each response option on the survey. For example, the response, "extremely 
+
+satisfied with service," might have a value of nine. To determine the mode, count the number of times 
+
+each value appears (3 appears 1 time; 5 appears 2 times; 9 appears 3 times; and 7 appears 4 times). 
+
+The highest number of times a number appears is the mode (7). 
+
+SOURCE: NF:093
+
+SOURCE: Farese, L.S., Kimbrell, G., Woloszyk, C.A. (2012). Marketing essentials (pp. 182-183). 
+
+79. A
+
+OSHA (Occupational Safety and Health Administration)/CCOHS (Canadian Centre for Occupational 
+
+Health and Safety). OSHA (in the U.S.) and CCOHS (in Canada) are responsible for ensuring workplace 
+
+safety. Both agencies work to prevent work-related illnesses and injuries. Employees can anonymously 
+
+file complaints to OSHA and CCOHS about workplace safety and health hazards. The FDA is 
+
+responsible for protecting U.S. public health by assuring the safety, efficacy, and security of human and 
+
+veterinary drugs, biological products, medical devices, our nation's food supply, cosmetics, and products 
+
+that emit radiation. The CFIA oversees the safety of the Canadian food supply. The BLS is the principal 
+
+fact-finding agency for the U.S. government in the broad field of labor economics and statistics. Statistics 
+
+Canada is a federal agency responsible for providing data about Canada's population, resources, 
+
+economy, etc. The HHS protects the health of all Americans and provides essential human services, 
+
+especially for those who are least able to help themselves.
+
+SOURCE: OP:005
+
+SOURCE: United States Department of Labor (n.d.). How to file a complaint with OSHA. Retrieved 
+
+80. B
+
+It's important to get expected deliverables in writing from the client. Before you can plan, you must know 
+
+exactly what your deliverables are. This task occurs right after you determine the project's purpose and 
+
+scope, not halfway through the planning process. A project may have several deliverables. Creating a 
+
+schedule does not come until later in the project-planning process. It is true, however, that project 
+
+managers should get expected deliverables from the client in writing.
+
+SOURCE: OP:001
+
+SOURCE: OP LAP 7—Chart Your Course (Developing a Project Plan)
+
+81. C
+
+Business use. Doormats, carpeting, telephones, and cleaning chemicals are all items that an office might 
+
+buy for its own use, rather than for resale or transformation. These items would not be purchased for 
+
+production, negotiations, or competitive bidding.
+
+SOURCE: OP:015
+
+SOURCE: OP LAP 2—Buy Right (Purchasing)
+
+Columbus, OH: Glencoe/McGraw-Hill.
+
+October 25, 2013, from http://osha.gov/as/opa/worker/complain.html
+
+Test 1095 FINANCE CLUSTER EXAM—KEY 28
+
+82. C
+
+Identifying needs. The first step in the bidding process is identifying needs. For example, if a business 
+
+wants to upgrade its computer system, it must determine the software it needs for employees to perform 
+
+various business functions. After identifying needs, the business can develop a request for proposal 
+
+(RFP) to send to potential vendors or contractors. The RFP summarizes the details about the business's 
+
+needs, bid requirements, and deadlines. After the business obtains the bids, it can assess each bidder's 
+
+strengths and weaknesses. Then, the business selects and negotiates terms with the vendor.
+
+SOURCE: OP:160
+
+SOURCE: Mind Tools. (1996-2013). Request for proposal documents: Getting better terms with a 
+
+competitive bidding process. Retrieved October 25, 2013, from 
+
+http://www.mindtools.com/pages/article/newPPM_79.htm
+
+83. B
+
+Increase net profit. Net profit is the money remaining after operating expenses are subtracted from gross 
+
+profit. Operating expenses consist of fixed costs and variable costs. Fixed costs are expenses that do not 
+
+change with sales volume, while variable costs fluctuate with changes in sales volume. Therefore, if sales 
+
+increase without much increase in variable costs, and fixed costs remain the same, a larger net profit 
+
+should result. The cost of goods sold is independent of the relationship between fixed/variable costs and 
+
+sales. Break-even point is the level of sales at which revenues equal total costs.
+
+SOURCE: OP:024
+
+SOURCE: Dlabay, L.R., & Burrow, J.L. (2008). Business finance (pp. 82, 128-129, 151-152). South-
+Western Cengage Learning.
+
+84. C
+
+Housekeeping. Housekeeping chores include arranging materials, cleaning shelves and counter areas, 
+
+and removing unnecessary items. Regular housekeeping activities are necessary in order to keep the 
+
+premises in a clean, organized condition. Counters littered with out-of-date promotional materials and 
+
+empty sign holders indicate a lack of general housekeeping, which reflects poorly on the business and 
+
+may offend potential customers. Maintenance activities include repairing equipment and fixtures and 
+
+periodically remodeling the facilities. Security activities are involved with the safety of customers and 
+
+employees.
+
+SOURCE: OP:032
+
+SOURCE: Stutts, A. T., & Wortman, J. F. (2006). Hotel and lodging management: An introduction
+
+85. D
+
+A process. Creativity is often identified as the process of allowing new perspectives and of coming up 
+
+with innovative ways of doing things. This process usually incorporates many elements and goes through 
+
+many phases. Often, creativity involves taking elements from two or more different settings and applying 
+
+them to a particular situation.
+
+SOURCE: PD:012
+
+SOURCE: Mindtools. (1996-2013). DO IT: A simple process for creativity. Retrieved October 25, 2013, 
+
+86. B
+
+Long term; decided by yourself. Goals are statements that you make, telling yourself what you want to 
+
+achieve. Goals come in many shapes and sizes. Some you decide for yourself, and some your boss or 
+
+supervisor decides for you. Some are long term, and some are short term. Greg's goal of working on the 
+
+New York Stock Exchange by the time he's 40 is a long-term goal, decided by himself, because it won't 
+
+be achieved until well into the future. 
+
+SOURCE: PD:019
+
+SOURCE: PD LAP 1—About Time (Time Management)
+
+(2nd ed.) [pp. 88, 99-101]. Hoboken, NJ: John Wiley & Sons.
+
+from http://www.mindtools.com/pages/article/newCT_09.htm
+
+Test 1095 FINANCE CLUSTER EXAM—KEY 29
+
+87. A
+
+Maria's father is a microbiologist. Aptitudes are innate and may be inherited. Interests are influenced by 
+
+outside forces, such as friends, classes, or tools such as the microscope. A person's ethics influence 
+
+his/her beliefs, interests, and choices.
+
+SOURCE: PD:023
+
+SOURCE: Johnson O'Connor Research Foundation. (n.d.). Interests vs. aptitudes. Retrieved on 
+
+88. B
+
+Irregular paychecks. Entrepreneurs experience many types of challenges as they start and grow their 
+
+businesses. A financial concern often involves irregular paychecks or unpredictable income. It often takes 
+
+a while for a new venture to gain business and earn a profit, so the entrepreneur often doesn't receive 
+
+income or get paid at regular intervals. Long working hours and shorter vacations are factors related to 
+
+the entrepreneur's personal commitment to his/her business. Production standards are specifications 
+
+related to the process of making or producing goods and services.
+
+SOURCE: PD:066
+
+SOURCE: PD LAP 4—Own Your Own (Career Opportunities in Entrepreneurship)
+
+89. A
+
+They are created and owned by members. Credit unions differ from commercial banks in that they are 
+
+created and owned by their members. Membership is based on a common link among members, such as 
+
+employment at the same company or residence in the same county. Credit unions usually offer lower 
+
+fees and interests rates than commercial banks.
+
+SOURCE: PD:152
+
+SOURCE: QS LAP 51—Careers in the Money
+
+90. C
+
+Promote their products. One of the main reasons why businesses participate in trade shows is to 
+
+promote their products to new and existing customers. Businesses display their products at trade shows 
+
+and have staff on hand to answer questions. Trade shows offer an opportunity for businesses to present 
+
+their products to many potential customers in one place and at one time. Businesses do not train their 
+
+salespeople at trade shows. Although businesses may meet their competitors at trade shows, that is not 
+
+the primary reason for participating. Businesses research their market before participating in trade 
+
+shows.
+
+SOURCE: PD:036
+
+SOURCE: Clow, K.E, & Baack, D. (2010). Integrated advertising, promotion, and marketing 
+
+91. A
+
+Maintain their certification. In most states and provinces, financial planners must have a certain level of 
+
+education. In addition to obtaining the necessary education, financial planners must pass a test to obtain 
+
+certification to carry out financial-planning activities on behalf of their clients. Financial planners are 
+
+usually required to take continuing-education classes every year to maintain their certification. While 
+
+taking continuing-education classes may enhance the financial planners' reputations, this is not the 
+
+primary reason for taking the classes. Financial planners don't take continuing-education classes every 
+
+year so they can train their employees or so they can start new businesses.
+
+SOURCE: PD:082
+
+SOURCE: Certified Financial Planner. (n.d.). CE requirements. Retrieved October 25, 2013, from 
+
+October 25, 2013, from http://www.jocrf.org/about_aptitudes/interests.html
+
+communications (4th ed.) [pp. 345-346]. Upper Saddle River, NJ: Prentice Hall.
+
+http://www.cfp.net/for-employers-of-cfp-professionals/ce-requirements
+
+Test 1095 FINANCE CLUSTER EXAM—KEY 30
+
+92. D
+
+Carol Hershberger, Financial Analyst, CCB Corporation. Financial analysts are typically required to 
+
+obtain a college degree and additional professional certification, such as a Certified Financial Analyst 
+
+certification (CFA). Bank tellers and bookkeepers often obtain special certifications to perform their 
+
+duties; however, many businesses do not require these individuals to have college degrees to obtain 
+
+their jobs. A production specialist works in operations rather than in finance.
+
+SOURCE: PD:082
+
+SOURCE: Walker, N., & Joseph, A. (2013, October 21). How do I become a financial analyst?
+
+Retrieved October 25, 2013, from http://www.wisegeek.com/how-do-i-become-a-financial-
+analyst.htm
+
+93. D
+
+A real estate agent and an insurance broker refer clients to each other. Relationships among business 
+
+professionals are most likely to survive and be successful when everyone involved benefits in a 
+
+substantial way. One common way to build mutually beneficial relationships is to refer clients to each 
+
+other. While taking donuts to other finance professionals, sending cards to clients, and socializing with 
+
+each other at professional association meetings can help to build professional relationships, those 
+
+methods are not as likely to be successful in building enduring relationships as sharing clients with each 
+
+other.
+
+SOURCE: PD:153
+
+SOURCE: Dasqupta, S. (2007, October 30). Effortless networking—How to build a sincere professional 
+
+relationship. Retrieved October 25, 2013, from http://ezinearticles.com/?Effortless-
+Networking—-How-To-Build-A-Sincere-Professional-Relationship&id=808843
+
+94. C
+
+Providing incomplete data for audits. Ethical risk management must be implemented by everyone in an 
+
+organization to protect the company's credibility with its stakeholders. By providing incomplete data for 
+
+audits, employees are acting unethically and risking the company's future existence. Revealing 
+
+discounted expenses is an ethical action. Using or not using insurance companies represents external 
+
+risks for a business.
+
+SOURCE: RM:041
+
+SOURCE: AICPA. (2012, December 31, 2012). Professional ethics: Most frequent violations of 
+
+professional standards. Retrieved October 25, 2013, from http://www.aicpa.org/interestareas/
+
+professionalethics/resources/ethicsenforcement/downloadabledocuments/govermentnotforpr
+
+ofitreport.pdf
+
+95. A
+
+Conducting backup procedures. Backup procedures involve duplicating computer entries, records, and 
+
+transactions on a regular basis and storing the duplicate files in a different location. By having backup 
+
+files, the business can retrieve information that might be lost due to a computer crash, a power outage, or 
+
+a fire. Encryption is the process of transforming information into a secret code so that only the recipient 
+
+can read it. An authorization process is a way to limit the access to certain information. Using encryption 
+
+techniques, implementing an authorization process, and monitoring data-transmission rates are not ways 
+
+in which a business can protect its computer data from loss due to fire or power outages.
+
+SOURCE: RM:042
+
+SOURCE: Ward, S. (n.d.). Data backup is the best data protection. Retrieved October 25, 2013, from 
+
+96. C
+
+Return on investment risk. Cloud computing keeps businesses from having to invest in computer 
+
+hardware, such as servers, and software, thereby avoiding return on investment risk. Instead, businesses 
+
+pay a provider only for the services that they use—much like paying an electric bill. The contract with the 
+
+provider can be ended at any time. Customers will probably receive better service since the business is 
+
+not having down time when its computers malfunction. Speculative risk is the chance of loss or gain. 
+
+Pure risk exists when, if something happens, it will result in a loss.
+
+SOURCE: RM:042
+
+SOURCE: Wikipedia.com. (2013). Cloud computing. Retrieved October 25, 2013, from 
+
+http://sbinfocanada.about.com/cs/management/a/databackup.htm 
+
+http://en.wikipedia.org/wiki/Cloud_computing
+
+Test 1095 FINANCE CLUSTER EXAM—KEY 31
+
+97. D
+
+Reduces tax due on the captive's premiums. Even if it is not associated with an insurance company, an 
+
+individual company, industry, or association may create a captive insurance company to specifically 
+
+protect its parent group(s). The captive insurer aids its parent group(s) by reducing premium expenses, 
+
+freeing up capital, and covering risks not commonly addressed by the greater insurance company. In 
+
+addition, forming a captive insurance company can reduce, eliminate, or defer federal taxes due on the 
+
+corporation's insurance premiums. A captive insurer typically decreases the tax due on a company's loss 
+
+reserves. Forming a captive insurance company does not typically increase the corporation's sales tax 
+
+liabilities, nor does it eliminate the corporation's state tax liabilities.
+
+SOURCE: RM:043
+
+SOURCE: Bertucelli, R.E. (2013, March). The benefits of captive insurance companies. Retrieved 
+
+October 25, 2013, from 
+
+http://www.journalofaccountancy.com/Issues/2013/Mar/20126102.htm
+
+98. A
+
+Implement and monitor safety policies. Businesses can take many actions to control their level of risk. 
+
+Developing, implementing, and monitoring specific safety policies is one way to lower risks associated 
+
+with accidents in the workplace. Accidents can be costly to the business, especially if it does not carry 
+
+sufficient comprehensive property insurance to cover these types of situations and the severe injuries 
+
+that may result. Crime insurance policies protect businesses from losses associated with theft. Health 
+
+insurance is a benefit that businesses offer to their employees to help offset medical expenses. A 
+
+business plan is the written business model, which shows how the business works now and how it is 
+
+intended to work in the future.
+
+SOURCE: RM:058
+
+SOURCE: SCORE. (n.d.). Risk management. Retrieved October 25, 2013, from http://www.ct-
+clic.com/Newsletters/customer-files/riskmanagement.pdf
+
+99. C
+
+To protect online transactions. Tokenization is the process of substituting a random number in place of 
+
+an account number to process the transaction online. In this way, financial institutions are able to protect 
+
+customer data from fraud. Credit-card creation, provision of incentives, and government-required quotas 
+
+are not aspects of tokenization.
+
+SOURCE: RM:058
+
+SOURCE: Rouse, M. (2011, May). Tokenization. Retrieved October 25, 2013, from 
+
+100. D
+
+Conceptual skills. Conceptual skills help managers to see the “big picture.” Managers must be able to 
+
+look at the organization as a whole and understand how the various parts of the organization are 
+
+interrelated; they must anticipate how a change in one department could impact all the others. Technical 
+
+skills help managers to understand the specialized aspects of jobs. Interpersonal skills help managers to 
+
+communicate, interact, and build relationships with others. Job-knowledge skills are the specialized body 
+
+of information that enables supervisors and managers to do their particular jobs.
+
+SOURCE: SM:001
+
+SOURCE: SM LAP 3—Manage This! (Concept of Management)
+
+http://www.gtnews.com/article/7835.cfm
